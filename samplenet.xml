@@ -1,0 +1,43 @@
+<WCSRadioNet>
+	<netInfo>
+		<nDateM>1</nDateM>
+		<nDateD>2</nDateD>
+		<nDateY>2021</nDateY>
+		<nTimeH>20</nTimeH>
+		<nTimeM>0</nTimeM>
+		<nFreq>5555</nFreq>
+		<nTone>5555</nTone>
+		<nOffset>5555</nOffset>
+		<nNotes>Test only</nNotes>
+		<nNumOps>3</nNumOps>
+	</netInfo>
+	<participantList>
+		<participantInfo>
+			<pCall>W9FUR</pCall>
+			<pName>Ratner, Noah J</pName>
+			<pService>Vanity</pService>
+			<pExpiration>08/30/2029</pExpiration>
+			<pDetailLink>http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?__newWindow=false&amp;licKey=4194110</pDetailLink>
+			<pIsNetControl>No</pIsNetControl>
+			<pNotes></pNotes>
+		</participantInfo>
+		<participantInfo>
+			<pCall>KD9ORR</pCall>
+			<pName>Elizabeth</pName>
+			<pService></pService>
+			<pExpiration></pExpiration>
+			<pDetailLink></pDetailLink>
+			<pIsNetControl>Yes</pIsNetControl>
+			<pNotes></pNotes>
+		</participantInfo>
+		<participantInfo>
+			<pCall>N0AX</pCall>
+			<pName>the man</pName>
+			<pService></pService>
+			<pExpiration></pExpiration>
+			<pDetailLink></pDetailLink>
+			<pIsNetControl>No</pIsNetControl>
+			<pNotes></pNotes>
+		</participantInfo>
+	</participantList>
+</WCSRadioNet>
