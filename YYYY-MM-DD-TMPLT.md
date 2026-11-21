@@ -14,10 +14,10 @@
 ## Listener's Corner
 | Callsign | Name | QTH / Grid |
 | :--- | :--- | :--- |
-| W1AW |  |  |  |
-| W1AW |  |  |  |
+| W1AW |  |  |
+| W1AW |  |  |
 
 [comment]: # (Or use: ### Listener's Corner was not recorded.)
 
 ### Announcment Notes
-> [comment]: # (Only used if applicable.)
+> [comment]: # (Only used if applicable. If no Discord announcments, rename to "Net Notes".)
